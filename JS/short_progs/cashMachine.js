@@ -1,6 +1,6 @@
 /*
 Exercise: build a cash register machine
-- machine object contains default items in array 'fopSale'
+- machine object contains default items in array 'forSale'
 - default items are added to 'cart' array
 - total price of items in cart is calculated
 */
