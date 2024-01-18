@@ -1,0 +1,5 @@
+*** object.js
+- key:value
+- access/modify     // .<property>, .["<property>"]
+- add/delete
+- in                // if property exists

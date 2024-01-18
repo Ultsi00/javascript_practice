@@ -1,0 +1,30 @@
+*** ./array
+-> own context.txt
+
+*** ./functions
+-> own context.txt
+
+-----------------------------------
+
+*** operators.js
+- strict equal/not_equal
+- type of
+
+*** typeConv.js
+- String()
+- Number()
+- Boolean()
+- [ <>, <>, ..., <> ] + " "
+
+*** arrVsOBj.js
+- initialize arr/obj
+- modify arr/obj
+- access arr/obj
+
+*** strToObj.js
+- str[i] to Obj, incr. value
+
+
+*** 1.js    // uncategorized syntax
+- for-of-loop
+- .find()
