@@ -1,0 +1,10 @@
+*** methods.js
+- array
+- mixed datatypes
+- push()    // add to end
+- pop()     // (re)move from end
+- unshift() // add to beginning
+- shift()   // (re)move from beginning
+- indexOf() // return index of given element
+- .length
+- splice()  // index range to remove, optional to add

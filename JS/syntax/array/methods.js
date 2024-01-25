@@ -36,6 +36,9 @@ console.log(len);			    // > 4
 //  Splice(arg0, arg1, i0, i1, …, in)
 //      arg0=start index, arg1=how many indeces starting from arg0 to remove
 //      i=optional elements to add to the array beginning from arg1.
+let arr_x = ['0', '1', '2', '3']
+arr._x.splicc(2, 0, 'a', 'b')
+console.log(arr_x)              // > ['0', '1', 'a', 'b', '2', '3']
 
 /*
     Exercise: Create an array which consists of  'red', 'green, and 'blue' . Add 'black' at the end. 

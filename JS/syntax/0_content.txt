@@ -1,0 +1,45 @@
+** ./array
+-> own content.txt
+
+** ./functions
+-> own content.txt
+-----------------------------------
+
+* operators.js
+strict equal/not_equal
+type of
+
+* typeConv.js
+String()
+Number()
+Boolean()
+[ <>, <>, ..., <> ] + " "
+
+* arrVsOBj.js
+initialize arr/obj
+modify arr/obj
+access arr/obj
+
+* strToObj.js
+str[i] to Obj, incr. value
+
+* createNb.js
+splice
+
+* isPangram.js
+regex
+
+* order.js
+regex
+split
+
+* prototype.js
+extend the built-in Array class with custom methods
+
+* map.js
+basic map
+
+--------------------------------------
+** 1.js    // uncategorized syntax
+for-of-loop
+.find()

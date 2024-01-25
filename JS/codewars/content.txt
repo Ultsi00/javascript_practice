@@ -1,0 +1,5 @@
+- random exercises from codewars
+- difficulty goes somewhat up:
+    1-10 = the easiest
+    n-xy = the most difficult
+- exercise instructions are within .js files

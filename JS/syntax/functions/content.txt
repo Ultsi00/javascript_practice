@@ -1,0 +1,11 @@
+*** function.js
+- function declaration
+- default argument
+- null
+- rest parameter
+
+
+
+*** arrow_f.js
+- arrow function
+- 'arguments' keyword
