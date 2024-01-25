@@ -1,0 +1,14 @@
+run a file: node <file_name>
+
+** sandbox
+-> testing different matters
+
+** syntax
+syntax learning
+
+** short_progs
+ctChars
+cashMachine
+
+** codewars
+random exercises from codewars
