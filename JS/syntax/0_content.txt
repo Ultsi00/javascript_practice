@@ -39,6 +39,10 @@ extend the built-in Array class with custom methods
 * map.js
 basic map
 
+* replace.js
+replace
+join
+
 --------------------------------------
 ** 1.js    // uncategorized syntax
 for-of-loop
